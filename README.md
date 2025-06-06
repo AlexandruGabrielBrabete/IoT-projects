@@ -69,3 +69,7 @@ The main focus is on developing functional embedded applications that interact w
 │   └── led_controller.ino
 └── ...
 ```
+
+## License
+
+This project is provided for academic and educational purposes. Distribution and reuse allowed with proper attribution.
