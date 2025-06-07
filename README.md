@@ -70,6 +70,13 @@ The main focus is on developing functional embedded applications that interact w
 └── ...
 ```
 
+## Author
+
+**Name:** Alexandru-Gabriel Brabete  
+**University:** Technical University of Cluj-Napoca  
+**Field:** Electronics, Telecommunications and Information Technology  
+**Year:** 2nd year.
+
 ## License
 
 This project is provided for academic and educational purposes. Distribution and reuse allowed with proper attribution.
